@@ -4,21 +4,21 @@ body {
   color: #333;
   font-family: "Lato", sans-serif;
 }
-.matrix-box {
+.matrix {
   width: 500px;
   margin: 0 auto;
   display: block;
   text-align: right;
 }
-.matrix-box img {
+.matrix img {
   width: 100%;
 }
-.matrix-box .more-inf {
+.matrix .more-inf {
   font-family: "Fantasy", cursive;
 }
 
 @media (max-width:768px) {
-  .matrix-box { text-align: center;
+  .matrix { text-align: center;
   }
 }
 .todo-box {
@@ -31,7 +31,7 @@ body {
   display: inline-block;
   flex-grow: 1
 }
-.task-row-wrapper {
+.wrapper {
   display: flex;
 }
 ul {
