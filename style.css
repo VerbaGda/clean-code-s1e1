@@ -147,10 +147,10 @@
 .list__item .item-list__input {
   display: none;
 }
-.item-list__edit-mode .item-list__input {
+.item-list_edit-mode .item-list__input {
   display: inline-block;
   width: 224px;
 }
-.item-list__edit-mode .item-list__name {
+.item-list_edit-mode .item-list__name {
   display: none;
 }
