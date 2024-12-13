@@ -103,7 +103,7 @@
   display: block;
   margin: 0 0 20px;
 }
-.add-todo__name {
+.add-todo__input {
   width: 318px;
 }
 /* Task list */
