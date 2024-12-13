@@ -15,7 +15,7 @@
   width: 100%;
 }
 .more-inf {
-  font-family: "Fantasy", cursive;
+  font-family: fantasy, cursive;
 }
 
 @media (max-width: 768px) {
@@ -81,7 +81,7 @@ input,
   border: 1px solid #ddd;
   background: #fff;
   border-radius: 6px;
-  font-family: Lato, sans-serif;
+  font-family: "Lato", sans-serif;
   color: #888;
 }
 .task-input:focus {
