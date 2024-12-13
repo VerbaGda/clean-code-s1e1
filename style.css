@@ -19,7 +19,8 @@
 }
 
 @media (max-width:768px) {
-  .matrix { text-align: center;
+  .matrix {
+    text-align: center;
   }
 }
 .todo-box {
@@ -27,7 +28,7 @@
   width: 500px;
   margin: 0 auto 0;
 }
-.task,
+.task
 .task-input,
 .task-name {
   width: 56%;
