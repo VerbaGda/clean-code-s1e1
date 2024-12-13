@@ -45,7 +45,8 @@
 .section-name {
   list-style: none;
 }
-input, .btn{
+input, 
+.btn{
   outline: none;
 }
 .btn {
