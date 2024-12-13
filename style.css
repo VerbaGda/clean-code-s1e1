@@ -4,6 +4,9 @@
   color: #333;
   font-family: "Lato", sans-serif;
 }
+.title {
+  display: none;
+}
 .matrix {
   width: 500px;
   margin: 0 auto;
@@ -26,7 +29,6 @@
   width: 500px;
   margin: 0 auto 0;
 }
-.task
 .task-input,
 .task-name {
   width: 56%;
